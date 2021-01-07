@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ColorApp</string>
+    <string name="text_name">hello world</string>
+    <string name="try_me">Try Me !!</string>
+</resources>
